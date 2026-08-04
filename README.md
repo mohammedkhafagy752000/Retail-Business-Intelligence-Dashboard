@@ -10,7 +10,7 @@ The dashboard enables decision-makers to monitor business performance, evaluate 
 
 ## Executive Overview
 
-![Cover](Images/cover.png)
+![Executive Overview](Dashboard/Executive Overview)
 
 ## Sales Analysis
 
